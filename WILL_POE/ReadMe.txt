@@ -1,0 +1,1 @@
+when running the mobile app, you have to open your terminal and type "ipconfig" and copy the IPv4 address and  on the mobile app source change the url Ip address on all form that are required to send data to the database like mentee,mentors,newsletter and sponsor
